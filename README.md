@@ -20,7 +20,7 @@ This application simulates real ATM functionalities including balance inquiry, c
 
 ---
 
-## 🖼️ Demo  
+## 🖼️ Demo 🎥 *Watch the video demo here*.
 
 https://lnkd.in/p/d9fufwMM
 

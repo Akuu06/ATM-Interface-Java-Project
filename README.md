@@ -1,4 +1,4 @@
-# 🏧 ATM Interface System  
+# 🏧 ATM Interface System: CodSoft
 
 A **Java Swing-based ATM Interface System** that provides secure banking operations with **MySQL database integration**.  
 This application simulates real ATM functionalities including balance inquiry, cash withdrawal, deposits, and PIN changes with robust authentication and data persistence.  

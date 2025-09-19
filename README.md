@@ -22,9 +22,7 @@ This application simulates real ATM functionalities including balance inquiry, c
 
 ## 🖼️ Demo  
 
-![ATM Interface Screenshot](https://via.placeholder.com/800x500?text=ATM+Interface+Screenshot)  
-
-📸 *Screenshots of the ATM interface can be found in the repository's `screenshots` folder.*  
+https://lnkd.in/p/d9fufwMM
 
 ---
 
